@@ -1,0 +1,26 @@
+// LAST TRAIN — palette: a metro station at night. Cold concrete and steel,
+// warm sodium lamps over the platforms, cyan signage, amber train windows.
+// One palette object so the map, the bots and the HUD all agree on the look.
+export const PALETTE = {
+  sky: 0x0a0e14,
+  fog: 0x0d1218,
+  floor: 0x4a5058,
+  floorDark: 0x383e45,
+  wall: 0x5a626c,
+  wallDark: 0x424a52,
+  pillar: 0x565e66,
+  steel: 0x7d848c,
+  steelDark: 0x3c424a,
+  amber: 0xf2a541,
+  amberSoft: 0xffb45e,
+  cyan: 0x59c8d8,
+  sign: 0x2fbf9b,
+  train: 0x8a6f4d,
+  trainWindow: 0xffc46b,
+  red: 0xe0564a,
+  leaf: 0x000000,
+  ink: 0xece7db,
+  muted: 0x8fa3a0,
+  attack: 0xb06a3b,
+  defend: 0x5d8fa8,
+};
